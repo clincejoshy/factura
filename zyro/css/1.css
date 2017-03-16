@@ -1,0 +1,67 @@
+#wb_header { background: transparent none repeat scroll left top; height: 1px; }
+#wb_header { height: 1px; }
+#wb_main { background: transparent none repeat-x scroll left top; height: 615px; padding: 0 0 50px 0; }
+#wb_main { height: 665px; }
+#wb_footer { background: transparent none repeat-x scroll left top; height: 1px; }
+#wb_footer { height: 1px; }
+body { background: transparent url("../gallery_gen/gear2.jpg") repeat-y scroll center top; }
+.wb_sbg { background: transparent none repeat scroll center top; }
+body, .wb_sbg { min-width: 992px; min-height: 662px; }
+.root { width: 992px; height: 662px; overflow: visible; }
+#wb_element_instance0 { left: 0px; top: 0px; min-width: 990px; width: 990px; min-height: 40px; height: 40px; display: block; z-index: 549; }
+#wb_element_instance0 ul { background: transparent none repeat scroll center top; border: 1px none #000000; }
+#wb_element_instance0, #wb_element_instance0 ul { text-align: left; }
+#wb_element_instance0 ul ul { background: transparent none repeat scroll center top; }
+#wb_element_instance0 li { margin: 10px 20px 10px 20px; }
+#wb_element_instance0 li a { text-transform: capitalize; border: 0px none #000000; padding: 10px 20px 10px 20px; font: normal bold 13px 'Nanum Gothic',sans-serif; text-decoration: none; color: #ffffff; line-height: 15px; background: transparent none repeat scroll left top; }
+#wb_element_instance0 li:hover > a, #wb_element_instance0 li:focus > a { border: 0px solid #ffffff; font: normal bold 13px 'Nanum Gothic',sans-serif; text-decoration: none; color: #00d9ff; line-height: 15px; background: transparent url('../gallery/qwe3-ts1468132341.png') no-repeat scroll center bottom; }
+#wb_element_instance0 li.active > a { border: 0px none #000000; font: normal bold 13px 'Nanum Gothic',sans-serif; text-decoration: none; color: #ffffff; line-height: 15px; background: transparent none no-repeat scroll center bottom; }
+#wb_element_instance1 { left: 128px; top: 588px; min-width: 200px; width: 200px; min-height: 24px; height: 24px; display: block; z-index: 265; }
+#wb_element_instance2 { left: 840px; top: 191px; min-width: 130px; width: 130px; min-height: 130px; height: 130px; display: block; z-index: 268; }
+#wb_element_instance3 { left: 0px; top: 591px; min-width: 70px; width: 70px; min-height: 24px; height: 24px; display: block; z-index: 263; }
+#wb_element_instance4 { left: 80px; top: 594px; min-width: 50px; width: 50px; min-height: 20px; height: 20px; display: block; z-index: 366; }
+#wb_element_instance5 { left: 0px; top: 504px; min-width: 260px; width: 260px; min-height: 85px; height: 85px; display: block; z-index: 145; }
+#wb_element_instance6 { left: 0px; top: 635px; display: block; z-index: 9000; }
+#wb_element_instance7 { left: 0px; top: 20px; display: block; z-index: 9999; }
+
+@media (min-width: 768px) {
+	#wb_header { height: 1px; }
+	#wb_main { height: 665px; }
+	#wb_footer { height: 1px; }
+	body, .wb_sbg { min-width: 992px; min-height: 667px; }
+	.root { width: 992px; height: 667px; overflow: visible; }
+	#wb_element_instance0 { left: 0px; top: 0px; min-width: 990px; width: 990px; min-height: 40px; height: 40px; display: block; }
+	#wb_element_instance1 { left: 128px; top: 588px; min-width: 200px; width: 200px; min-height: 24px; height: 24px; display: block; }
+	#wb_element_instance2 { left: 840px; top: 191px; min-width: 130px; width: 130px; min-height: 130px; height: 130px; display: block; }
+	#wb_element_instance3 { left: 0px; top: 591px; min-width: 70px; width: 70px; min-height: 24px; height: 24px; display: block; }
+	#wb_element_instance4 { left: 80px; top: 594px; min-width: 50px; width: 50px; min-height: 20px; height: 20px; display: block; }
+	#wb_element_instance5 { left: 0px; top: 504px; min-width: 260px; width: 260px; min-height: 85px; height: 85px; display: block; }
+}
+
+@media (min-width: 992px) {
+	#wb_header { height: 1px; }
+	#wb_main { height: 665px; }
+	#wb_footer { height: 1px; }
+	body, .wb_sbg { min-width: 992px; min-height: 667px; }
+	.root { width: 992px; height: 667px; overflow: visible; }
+	#wb_element_instance0 { left: 0px; top: 0px; min-width: 990px; width: 990px; min-height: 40px; height: 40px; display: block; }
+	#wb_element_instance1 { left: 128px; top: 588px; min-width: 200px; width: 200px; min-height: 24px; height: 24px; display: block; }
+	#wb_element_instance2 { left: 840px; top: 191px; min-width: 130px; width: 130px; min-height: 130px; height: 130px; display: block; }
+	#wb_element_instance3 { left: 0px; top: 591px; min-width: 70px; width: 70px; min-height: 24px; height: 24px; display: block; }
+	#wb_element_instance4 { left: 80px; top: 594px; min-width: 50px; width: 50px; min-height: 20px; height: 20px; display: block; }
+	#wb_element_instance5 { left: 0px; top: 504px; min-width: 260px; width: 260px; min-height: 85px; height: 85px; display: block; }
+}
+
+@media (min-width: 1200px) {
+	#wb_header { height: 1px; }
+	#wb_main { height: 665px; }
+	#wb_footer { height: 1px; }
+	body, .wb_sbg { min-width: 992px; min-height: 667px; }
+	.root { width: 992px; height: 667px; overflow: visible; }
+	#wb_element_instance0 { left: 0px; top: 0px; min-width: 990px; width: 990px; min-height: 40px; height: 40px; display: block; }
+	#wb_element_instance1 { left: 128px; top: 588px; min-width: 200px; width: 200px; min-height: 24px; height: 24px; display: block; }
+	#wb_element_instance2 { left: 840px; top: 191px; min-width: 130px; width: 130px; min-height: 130px; height: 130px; display: block; }
+	#wb_element_instance3 { left: 0px; top: 591px; min-width: 70px; width: 70px; min-height: 24px; height: 24px; display: block; }
+	#wb_element_instance4 { left: 80px; top: 594px; min-width: 50px; width: 50px; min-height: 20px; height: 20px; display: block; }
+	#wb_element_instance5 { left: 0px; top: 504px; min-width: 260px; width: 260px; min-height: 85px; height: 85px; display: block; }
+}

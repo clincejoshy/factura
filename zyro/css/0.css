@@ -1,0 +1,32 @@
+body { background: transparent url("gallery/fon1-ts1427943654.jpg") no-repeat scroll center top; }
+.wb_sbg { background: transparent none repeat scroll center top; }
+body, .wb_sbg { min-width: 992px; min-height: 667px; }
+.root { width: 992px; height: 667px; overflow: visible; }
+#wb_element_instance96 { left: 0px; top: 0px; min-width: 990px; width: 990px; min-height: 40px; height: 40px; display: block; z-index: 549; }
+#wb_element_instance96 ul { background: transparent none repeat scroll center top; border: 1px none #000000; }
+#wb_element_instance96, #wb_element_instance96 ul { text-align: left; }
+#wb_element_instance96 ul ul { background: transparent none repeat scroll center top; }
+#wb_element_instance96 li { margin: 10px 20px 10px 20px; }
+#wb_element_instance96 li a { text-transform: capitalize; border: 0px none #000000; padding: 10px 20px 10px 20px; font: normal bold 13px 'Nanum Gothic',sans-serif; text-decoration: none; color: #ffffff; line-height: 15px; background: transparent none repeat scroll left top; }
+#wb_element_instance96 li:hover > a, #wb_element_instance96 li:focus > a { border: 0px solid #ffffff; font: normal bold 13px 'Nanum Gothic',sans-serif; text-decoration: none; color: #00d9ff; line-height: 15px; background: transparent url('../gallery/qwe3-ts1468132341.png') no-repeat scroll center bottom; }
+#wb_element_instance96 li.active > a { border: 0px none #000000; font: normal bold 13px 'Nanum Gothic',sans-serif; text-decoration: none; color: #ffffff; line-height: 15px; background: transparent none no-repeat scroll center bottom; }
+#wb_element_instance97 { left: 0px; top: 60px; display: block; z-index: 9000; }
+#wb_element_instance98 { left: 0px; top: 20px; display: block; z-index: 9999; }
+
+@media (min-width: 768px) {
+	body, .wb_sbg { min-width: 992px; min-height: 667px; }
+	.root { width: 992px; height: 667px; overflow: visible; }
+	#wb_element_instance96 { left: 0px; top: 0px; min-width: 990px; width: 990px; min-height: 40px; height: 40px; display: block; }
+}
+
+@media (min-width: 992px) {
+	body, .wb_sbg { min-width: 992px; min-height: 667px; }
+	.root { width: 992px; height: 667px; overflow: visible; }
+	#wb_element_instance96 { left: 0px; top: 0px; min-width: 990px; width: 990px; min-height: 40px; height: 40px; display: block; }
+}
+
+@media (min-width: 1200px) {
+	body, .wb_sbg { min-width: 992px; min-height: 667px; }
+	.root { width: 992px; height: 667px; overflow: visible; }
+	#wb_element_instance96 { left: 0px; top: 0px; min-width: 990px; width: 990px; min-height: 40px; height: 40px; display: block; }
+}
