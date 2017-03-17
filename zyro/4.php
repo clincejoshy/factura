@@ -71,7 +71,7 @@ td, th {
 tr:nth-child(even) {
     background-color: #dddddd;
 }
-</style><font color="white"><table><tr><th><font color="black">IMPORTANT DATES</font></th>
+</style><font color="white"><table><tr><th><font color="black"><font color=white>IMPORTANT DATES</font></font></th>
     <th> </th>
   </tr><tr><td><font color="black">Submission of Abstract</font></td>
     <td><font color="black">August 7, 2016</font></td>
@@ -104,7 +104,7 @@ td, th {
 tr:nth-child(even) {
     background-color: #dddddd;
 }
-</style><font color="black"><table><tr><th>REGISTRATION FEES</th>
+</style><font color="black"><table><tr><th><font color=white>REGISTRATION FEES</font></th>
     <th> </th>
   </tr><tr><td>Delegates from Industries</td>
     <td> ₹3000</td>
