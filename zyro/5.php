@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<title><font color="white">PHASE I REGISTRATION</font></title>
+	<title>PHASE I REGISTRATION</title>
 	<base href="{{base_url}}" />
 			<meta name="viewport" content="width=992" />
 		<meta name="description" content="" />

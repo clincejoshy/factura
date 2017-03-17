@@ -37,18 +37,18 @@
   </td>
   <td valign="middle" style="border-left: 3px solid #660099; padding: 0 0 0 8px;">
    <div style="display: ;">
-    <span style="color: #000000; color: #3ccec2; text-shadow: 2px 2px 4px #000000; font-size: 20px; font-family: 'Georgia';"><b>Ayyappan R.</b></span>  
+    <span style="color: #000000; color: #3ccec2; text-shadow: 2px 2px 4px #000000; font-size: 20px; font-family: 'Georgia';"><b>Vishag T</b></span>  <br/>
     <span style="display: ;">
      <span style="font-size: 12px; color: #660066; font-family: 'arial';"><font color=white>Student Coordinator</font></span>
     </span>
    </div>
-   <div style="display: none !important;"> 
+   <div style="display: none !important;"> <br/>
     <span style="font-size: 11px; font-family: 'arial';"></span>
    </div>
    <div>
     <span style="display: ;">
-     <span style="font-size: 12px; color: #000000; font-family: 'arial';"><font color=white>p:</font></span>
-     <span style="font-size: 12px; color: #000000; font-family: 'arial';"><font color=white>9995927500</font></span>
+     <span style="font-size: 12px; color: #000000; font-family: 'arial';"><font color=white>phone:</font></span>
+     <span style="font-size: 12px; color: #000000; font-family: 'arial';"><font color=white>7736745485</font></span>
     </span>
     <span style="display: none !important;">
      <span style="font-size: 12px; color: #000000; font-family: 'arial'; ">m:</span>
@@ -63,10 +63,7 @@
       <span style="font-size: 11px; color: #ec425e; font-family: 'arial';">s:</span>
       <span><a href="" target="_blank" style="color: #000; text-decoration: none; font-size: 11px; font-family: 'arial';"></a></span>
      </span>
-     <span style="display: ;">
-      <span style="font-size: 12px; color: #000000; font-family: 'arial'; "><font color=white>e:</font></span>
-      <span><a href="mailto:ayyalive@live.in" target="_blank" style="font-size: 12px; color: #000; text-decoration: none; font-family: 'arial';"><font color=white>ayyalive@live.in</font></a></span>
-     </span>
+     
     </div>
    </div>
    <div style="padding: 3px 0 0 0;">
@@ -81,8 +78,8 @@
   </td>
   <td valign="middle" style="border-left: 3px solid #660099; padding: 0 0 0 8px;">
    <div style="display: ;">
-    <span style="color: #3ccec2; text-shadow: 2px 2px 4px #000000; font-size: 20px; font-family: 'Georgia';"><b>Anoop Kumar M</b></span>  
-    <span style="display: ;">
+    <span style="color: #3ccec2; text-shadow: 2px 2px 4px #000000; font-size: 20px; font-family: 'Georgia';"><b>Navaneeth M G</b></span>  
+    <span style="display: ;"><br/>
      <span style="font-size: 12px; color: #ffffff; font-family: 'arial';">Student Coordinator</span>
     </span>
    </div>
@@ -91,8 +88,8 @@
    </div>
    <div>
     <span style="display: ;">
-     <span style="font-size: 12px; color: #ffffff; font-family: 'arial';">p:</span>
-     <span style="font-size: 12px; color: #ffffff; font-family: 'arial';">8943264952</span>
+     <span style="font-size: 12px; color: #ffffff; font-family: 'arial';">phone:</span>
+     <span style="font-size: 12px; color: #ffffff; font-family: 'arial';">9497742378</span>
     </span>
     <span style="display: ;">
      <span style="font-size: 12px; color: #ec425e; font-family: 'arial'; "></span>
@@ -107,10 +104,7 @@
       <span style="font-size: 11px; color: #ec425e; font-family: 'arial';">s:</span>
       <span><a href="" target="_blank" style="color: #000; text-decoration: none; font-size: 11px; font-family: 'arial';"></a></span>
      </span>
-     <span style="display: ;">
-      <span style="font-size: 12px; color: #ffffff; font-family: 'arial'; ">e:</span>
-      <span><a href="mailto:anoop13992@gmail.com" target="_blank" style="font-size: 12px; color: #ffffff; text-decoration: none; font-family: 'arial';">anoop13992@gmail.com</a></span>
-     </span>
+     
     </div>
    </div>
    

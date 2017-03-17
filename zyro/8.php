@@ -37,15 +37,16 @@ NSSCE, Palakkad<br><br><br></font>
 <p style="font-family: SF Fedora Titles, SF Fedora Titles, SF Fedora Titles; font-size: 24pt; line-height: normal; font-weight: bold; font-variant: normal; color: #3ccec2; text-shadow: 2px 2px 4px #000000; text-decoration: blink;"><b>P<small>atron<small></small><b></b></small></b></p><div style="font-family:arial;font-size:small;border-top-width:2px;border-top-style:solid;border-top-color:#cccccc;"><a target="_blank" style="color:#00b6d9;font-size:10px;font-family:'Open Sans'" href="https://newoldstamp.com/editor/"></a></div><br><font size="3&gt;." face="Georgia" add this: color="#000000">Dr. <b>SUDHA.T</b> <br>
 Principal, <br>
 NSSCE, Palakkad<br><br><br></font>
-<p style="font-family: SF Fedora Titles, SF Fedora Titles, SF Fedora Titles; font-size: 24pt; line-height: normal; font-weight: bold; font-variant: normal; color: #3ccec2; text-shadow: 2px 2px 4px #000000; text-decoration: blink;"><b>C<small>hairman<small></small><b></b></small></b></p><div style="font-family:arial;font-size:small;border-top-width:2px;border-top-style:solid;border-top-color:#cccccc;"><a target="_blank" style="color:#00b6d9;font-size:10px;font-family:'Open Sans'" href="https://newoldstamp.com/editor/"></a></div><br><font size="3.5&gt;." face="Georgia" add this: color="#000000">Prof. <b>G. NANDAKUMAR</b><br>
+<p style="font-family: SF Fedora Titles, SF Fedora Titles, SF Fedora Titles; font-size: 24pt; line-height: normal; font-weight: bold; font-variant: normal; color: #3ccec2; text-shadow: 2px 2px 4px #000000; text-decoration: blink;"><b>C<small>hairman<small></small><b></b></small></b></p><div style="font-family:arial;font-size:small;border-top-width:2px;border-top-style:solid;border-top-color:#cccccc;"><a target="_blank" style="color:#00b6d9;font-size:10px;font-family:'Open Sans'" href="https://newoldstamp.com/editor/"></a></div><br><font size="3.5&gt;." face="Georgia" add this: color="#000000">Dr. <b>N Santhosh Kumar</b><br>
 HOD, Department of <br>
 Mechanical Engineering<br><br><br></font>
-<p style="font-family: SF Fedora Titles, SF Fedora Titles, SF Fedora Titles; font-size: 24pt; line-height: normal; font-weight: bold; font-variant: normal; color: #3ccec2; text-shadow: 2px 2px 4px #000000; text-decoration: blink;"><b>C<small>hief <small></small> C<small>oordinator<small></small><b></b></small></small></b></p><div style="font-family:arial;font-size:small;border-top-width:2px;border-top-style:solid;border-top-color:#cccccc;"><a target="_blank" style="color:#00b6d9;font-size:10px;font-family:'Open Sans'" href="https://newoldstamp.com/editor/"></a></div><br><font size="3.5&gt;." face="Georgia" add this: color="#000000">Dr. <b>K.G. JOLLY</b><br>
+<p style="font-family: SF Fedora Titles, SF Fedora Titles, SF Fedora Titles; font-size: 24pt; line-height: normal; font-weight: bold; font-variant: normal; color: #3ccec2; text-shadow: 2px 2px 4px #000000; text-decoration: blink;"><b>C<small>hief <small></small> C<small>oordinator<small></small><b></b></small>/Contact</small></b></p><div style="font-family:arial;font-size:small;border-top-width:2px;border-top-style:solid;border-top-color:#cccccc;"><a target="_blank" style="color:#00b6d9;font-size:10px;font-family:'Open Sans'" href="https://newoldstamp.com/editor/"></a></div><br><font size="3.5&gt;." face="Georgia" add this: color="#000000">Dr. <b>R. Sudir Kumar</b><br>
 Professor, Department of <br>
-Mechanical Engineering<br><br><br></font>
-<p style="font-family: SF Fedora Titles, SF Fedora Titles, SF Fedora Titles; font-size: 24pt; line-height: normal; font-weight: bold; font-variant: normal; color: #3ccec2; text-shadow: 2px 2px 4px #000000; text-decoration: blink;"><b>C<small>oordinator<small></small><b></b></small></b></p><div style="font-family:arial;font-size:small;border-top-width:2px;border-top-style:solid;border-top-color:#cccccc;"><a target="_blank" style="color:#00b6d9;font-size:10px;font-family:'Open Sans'" href="https://newoldstamp.com/editor/"></a></div><br><font size="3&gt;." face="Georgia" add this: color="#000000">Dr.<b> R. SUDHIR KUMAR</b><br>
-Dr. <b>P.R. SURESH</b><br>
-Dr. <b>V.R. PRAMOD</b><br><b>P.R. JYOTHI SANKAR</b></font></div><div id="wb_element_instance48" class="wb_element" style=" overflow: hidden;">
+Mechanical Engineering<br>
+Phone : 9446434447<br><br></font>
+<p style="font-family: SF Fedora Titles, SF Fedora Titles, SF Fedora Titles; font-size: 24pt; line-height: normal; font-weight: bold; font-variant: normal; color: #3ccec2; text-shadow: 2px 2px 4px #000000; text-decoration: blink;"><b>C<small>oordinator<small></small><b></b></small></b></p><div style="font-family:arial;font-size:small;border-top-width:2px;border-top-style:solid;border-top-color:#cccccc;"><a target="_blank" style="color:#00b6d9;font-size:10px;font-family:'Open Sans'" href="https://newoldstamp.com/editor/"></a></div><br><font size="3&gt;." face="Georgia" add this: color="#000000">Dr.<b>K.G JOLLY</b><br>
+Dr. <b>K.S SURESH</b><br>
+Dr. <b>B.SHAJI MOHAN</b><br></font></div><div id="wb_element_instance48" class="wb_element" style=" overflow: hidden;">
 
 
 <style>
@@ -54,7 +55,7 @@ h1 {
     color: #f10000;
     text-shadow: 2px 2px 4px #000000;
 }
-</style><h1><b><font color=white>ORGANIZING</font></b></h1></div><div id="wb_element_instance49" class="wb_element" style="width: 100%;">
+</style><h2><b><font color=white>ORGANIZING COMMITTE</font></b></h2></div><div id="wb_element_instance49" class="wb_element" style="width: 100%;">
 			<?php
 				global $show_comments;
 				if (isset($show_comments) && $show_comments) {
