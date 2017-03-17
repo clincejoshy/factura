@@ -40,7 +40,7 @@ h1 {
     color: #f10000;
     text-shadow: 2px 2px 4px #000000;
 }
-</style><h1><b>PHASE - III : FINAL SUBMISSION</b></h1>
+</style><h1><b><font color=white>PHASE - III : FINAL SUBMISSION</font></b></h1>
 </div><div id="wb_element_instance91" class="wb_element" style="width: 100%;">
 			<?php
 				global $show_comments;
