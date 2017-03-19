@@ -53,7 +53,7 @@ h2 {
 }
 </style>
 
-	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScy0Os6yvbmCPOld_E9CqpNT6ILj2e4kLR-3pYaJQfYFfKQew/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>Loading...</iframe>
+	<div id=change><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScy0Os6yvbmCPOld_E9CqpNT6ILj2e4kLR-3pYaJQfYFfKQew/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>Loading...</iframe></div>
 			<?php
 				global $show_comments;
 				if (isset($show_comments) && $show_comments) {
@@ -91,5 +91,18 @@ h2 {
 					footer.height(1);
 				}
 			});
-			</script></div></div><div class="wb_sbg"></div></div></body>
+			</script></div></div><div class="wb_sbg"></div></div>
+			<script type="text/javascript">
+
+			var today = new Date();
+			var year = today.getFullYear();
+			var month = today.getMonth();
+			var day = today.getDate();
+				if( year >=2017 && month >=5 && day >6)
+	{
+		document.getElementById('change').innerHTML = '<font color=white><h1>This section is closed</h1></font>';
+	}
+			</script>
+
+			</body>
 </html>

@@ -74,15 +74,15 @@ tr:nth-child(even) {
 </style><font color="white"><table><tr><th><font color="black"><font color=white>IMPORTANT DATES</font></font></th>
     <th> </th>
   </tr><tr><td><font color="black">Submission of Abstract</font></td>
-    <td><font color="black">August 7, 2016</font></td>
+    <td><font color="black">May 1 to May 6,2017</font></td>
   </tr><tr><td>Submission of Paper</td>
-    <td>August 12, 2016</td>
+    <td>May 8 to May 13, 2017</td>
 
   </tr><tr><td><font color="black">Acceptance of Paper</font></td>
-    <td><font color="black">August 16, 2016</font></td>
+    <td><font color="black">May 20 to May 24,2017</font></td>
 
   </tr><tr><td>Conference Dates</td>
-    <td>August 26-27</td>
+    <td>June 9th & 10th</td>
 
   </tr></table></table></div><div id="wb_element_instance35" class="wb_element" style=" overflow: hidden;">
 
@@ -141,19 +141,18 @@ tr:nth-child(even) {
     
   </tr><tr><th>Registration fees includes Conference kit, Lunch and Tea.</th>
 </tr><tr><th>
-After the acceptance of the Abstract soft copy of the Paper in the given format should be send to factura2k16@gmail.com and the DD taken in favour of "FACTURA" payable at Palakkad should be sent to the correspondence address with duly filled application form via speed post or courier.
+After the acceptance of the Abstract soft copy of the Paper in the given format , original paper should be send to factura2k16@gmail.com and the DD taken in favour of "FACTURA" payable at Palakkad should be sent to the correspondence address with duly filled application form via speed post or courier.
+</th>
+</tr><tr>
+</tr><tr><th>
+
+</th>
+</tr>
+<tr><th>* Format for the Paper is available in the DOWNLOAD menu</th></tr><tr><th>
+*Registration form will be available in the website from March 20.
 </th>
 </tr><tr><th>
-* Don't send the softcopy of the paper to info@factura2k16.in.
-</th>
-</tr><tr><th>
-* Format for the Paper is available in the DOWNLOAD menu
-</th>
-</tr><tr><th>
-*Application format will be available in the website from 2nd august.
-</th>
-</tr><tr><th>
-Also pay viaFACTURAAcc No.: 6345789408Indian Bank, Branch: Akathethara, Palakkad Dist.-678 008IFS CODE : IDIB000A007
+Also pay via FACTURA Acc No.: 6345789408Indian Bank, Branch: Akathethara, Palakkad Dist.-678 008IFS CODE : IDIB000A007
 </th>
 </tr></table></div><div id="wb_element_instance37" class="wb_element" style="width: 100%;">
 			<?php
