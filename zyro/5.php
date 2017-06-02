@@ -40,7 +40,7 @@ h1 {
     color: #f10000;
     text-shadow: 2px 2px 4px #000000;
 }
-</style><h1><b><font color="white">PHASE I REGISTRATION</font></b></h1>
+</style><h1><b><font color="white">Registration is now closed</font></b></h1>
 </div><div id="wb_element_instance77" class="wb_element" style=" overflow: hidden;">
 
 
@@ -53,7 +53,7 @@ h2 {
 }
 </style>
 
-	<div id=change><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScy0Os6yvbmCPOld_E9CqpNT6ILj2e4kLR-3pYaJQfYFfKQew/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>Loading...</iframe></div>
+	
 			<?php
 				global $show_comments;
 				if (isset($show_comments) && $show_comments) {
